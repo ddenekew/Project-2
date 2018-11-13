@@ -28,15 +28,13 @@ h1, h2, h3,h5{
     background-color: #9babb2 ;
 }
 #nav li a {
-    display: block;
+    display: inline;
     color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
-/*#nav li{
-  text-align: center;
-*/}
+
 #nav li a:hover {
     background-color: #111;
 }
