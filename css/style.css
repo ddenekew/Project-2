@@ -19,12 +19,12 @@ h1, h2, h3,h5{
 }
 
 
-#nav a{
+#nav a ul{
   text-align: center;
   text-decoration: none;
   background-color: #9BABB2;
   font-weight: bold;
-  font-size: 20px;
+  padding: 14px 16px;
 }
 #nav li{
   display: inline;
