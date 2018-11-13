@@ -23,6 +23,8 @@ h1, h2, h3,h5{
   text-align: center;
   text-decoration: none;
   background-color: #9BABB2;
+  font-weight: bold;
+  padding: 1em;
 }
 #nav li{
   display: inline;
