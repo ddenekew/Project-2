@@ -21,6 +21,8 @@ h1, h2, h3,h5{
 
 #nav{
   text-align: center;
+  display: inline;
+  text-decoration: none;
 }
 
 #nav li a:hover {
