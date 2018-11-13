@@ -35,7 +35,7 @@ h1, h2, h3,h5{
     text-decoration: none;
 }
 #nav li{
-  float: left;
+  text-align: center;
 }
 #nav li a:hover {
     background-color: #111;
@@ -44,9 +44,6 @@ h1, h2, h3,h5{
   background-color: green;
 }
 
-#nav{
-  text-align: center;
-}
 @media only screen and (min-width: 600px) {
   body{
     margin-bottom: 8px;
