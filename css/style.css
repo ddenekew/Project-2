@@ -19,20 +19,8 @@ h1, h2, h3,h5{
 }
 
 
-#nav ul {
-    /*text-align: center;*/
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #9babb2 ;
-}
-#nav li a {
-    display: inline;
-    color: black;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+#nav{
+  text-align: center;
 }
 
 #nav li a:hover {
