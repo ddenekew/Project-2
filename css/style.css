@@ -34,7 +34,6 @@
   #nav li a:active{
     background-color: green;
   }
-
   @media only screen and (min-width: 600px) {
     body{
       margin-bottom: 8px;
