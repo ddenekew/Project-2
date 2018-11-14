@@ -25,7 +25,7 @@
     padding: 14px 16px;
   }
   #nav li{
-    display: inline;
+    display: inline-inline-block;
   }
 
   #nav li a:hover {
