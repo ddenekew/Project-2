@@ -19,14 +19,15 @@
 
   #nav ul a{
     text-align: center;
+    display: inline-block;
     text-decoration: none;
     background-color: #9BABB2;
     font-weight: bold;
     padding: 14px 16px;
   }
-  #nav li{
+/*  #nav li{
     display: inline-block;
-  }
+  }*/
 
   #nav li a:hover {
       background-color: #111;
